@@ -1,4 +1,5 @@
 <section id="jumbotron">
+
 </section>
 
 <section id="series">
@@ -7,6 +8,7 @@
             <h5 class="text-white text-center">CURRENT SERIES</h5>
         </div>
         <div class="row d-flex flex-wrap">
+
             @include ('partials.comic')
         </div>
         <div class="row justify-content-center py-3">
@@ -15,7 +17,6 @@
                     LOAD MORE
                 </button>
             </div>
-
         </div>
     </div>
 </section>
