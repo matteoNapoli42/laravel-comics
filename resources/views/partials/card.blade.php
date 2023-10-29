@@ -8,7 +8,6 @@
             <h5 class="text-white text-center">CURRENT SERIES</h5>
         </div>
         <div class="row d-flex flex-wrap">
-
             @include ('partials.comic')
         </div>
         <div class="row justify-content-center py-3">

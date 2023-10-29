@@ -41,8 +41,23 @@ a {
     color: grey;
 }
 
+
+
+.merchImg {
+    width: 46px;
+}
+
 #bigLogo {
-    background: url("../assets/img/dc-logo-bg.png");
+    background: url("../img/dc-logo-bg.png");
     background-repeat: no-repeat;
     background-position: right;
+}
+
+#upperFooter {
+    background: url("../img/footer-bg.jpg");
+    background-size: contain;
+}
+
+#lowerFooter {
+    background-color: #303030ff;
 }
